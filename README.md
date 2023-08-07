@@ -12,12 +12,11 @@
 const yelkoloncarich = {
   pronouns: "He" | "Him",
   code: [ 
-    "Python", "Swift", "JavaScript", "HTML", "CSS", "Java"
+    "Python", "Swift", "Java"
   ],
   tools: [ 
     "UIKit", "XCode", "Git", "Postman", "SQLServer",
-    "MySQL", "NoSQL", "Firebase", "PowerBI", "Dax",
-    "Lenguaje M", "Azure"
+    "MySQL", "NoSQL", "Firebase", "Azure"
   ],
   challenge: "¡Ampliar mis conocimientos para compartirlos con los demás!"
 }
