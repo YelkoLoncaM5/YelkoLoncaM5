@@ -16,7 +16,7 @@ const yelkoloncarich = {
   ],
   frameworksAndLibraries: [
     "UIKit", "SwiftUI", "Combine", "CoreData"
-  ]
+  ],
   tools: [ 
     "Xcode", "Git", "Postman", "Firebase", "Azure",
     "CocoaPods", "Fastlane", "GitHub", "Bitbucket", "Jira"
