@@ -3,20 +3,23 @@
 > Todo comenzó con un "Hello World" 🌎
 <h2>About me <img src="https://media.tenor.com/74l5y1hUdtwAAAAj/pokemon.gif" width="50"></h2>
 
-- Bachiller en Ingeniería de Sistemas e Informática.
-- Amante de la tecnología y la innovación.
+- **Bachiller en Ingeniería de Sistemas e Informática** con especial enfoque en desarrollo de aplicaciones móviles iOS.
+- Apasionado por **resolver problemas** utilizando la tecnología.
 - Siempre en busca de nuevos retos.
-- Estoy listo para compartir mis conocimientos contigo.
+- Comprometido con el **aprendizaje continuo** y la **mejora personal**.
 
 ```javascript
 const yelkoloncarich = {
   pronouns: "He" | "Him",
   code: [ 
-    "Python", "Swift", "Java"
+    "Swift", "Python", "Java"
   ],
+  frameworksAndLibraries: [
+    "UIKit", "SwiftUI", "Combine", "CoreData"
+  ]
   tools: [ 
-    "UIKit", "XCode", "Git", "Postman", "SQLServer",
-    "MySQL", "NoSQL", "Firebase", "Azure"
+    "Xcode", "Git", "Postman", "Firebase", "Azure",
+    "CocoaPods", "Fastlane", "GitHub", "Bitbucket", "Jira"
   ],
   challenge: "¡Ampliar mis conocimientos para compartirlos con los demás!"
 }
@@ -25,4 +28,3 @@ const yelkoloncarich = {
 ## Mis redes sociales 😃👇
 * [🎓 LinkedIn](https://www.linkedin.com/in/yelkoloncarichm/).
 * [📷 Instagram](https://www.instagram.com/yelkolonca05/).
-
